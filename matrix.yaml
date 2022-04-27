@@ -1,7 +1,7 @@
 {
   "CSI" : {
     "2.5.1": {
-      "vSphere": { "min": "6.7.1", "max": "8pm .0.4" },
+      "vSphere": { "min": "6.7.1", "max": "8.0.4" },
       "k8s": { "min": "1.20", "max": "1.23" },
       "isCPIRequired": false,
       "deploymentPath": [
